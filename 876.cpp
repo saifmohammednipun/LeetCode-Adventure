@@ -12,7 +12,7 @@ public:
         }
         return cnt;
     }
-    
+
     ListNode *middleNode(ListNode *head)
     {
         int sz = size(head);
@@ -22,5 +22,6 @@ public:
             tmp = tmp->next;
         }
         return tmp;
+        
     }
 };
