@@ -12,6 +12,7 @@ public:
         }
         return cnt;
     }
+    
     ListNode *middleNode(ListNode *head)
     {
         int sz = size(head);
