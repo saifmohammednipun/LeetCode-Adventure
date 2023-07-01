@@ -1,7 +1,7 @@
 # LeetCode Problem List
 
 1.19. Remove Nth Node From End of List
-    https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+ https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 
 2.83. Remove Duplicates from Sorted List
     https://leetcode.com/problems/remove-duplicates-from-sorted-list/
