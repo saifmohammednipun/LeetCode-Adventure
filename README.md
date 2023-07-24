@@ -53,7 +53,7 @@ https://leetcode.com/problems/merge-nodes-in-between-zeros/
 7. Binary Linked List To Integer - Coding Ninjas
 8. Remove All Nodes with Value K - Coding Ninjas
 
-# Stack & Queue:
+# Stack & Queue
 1. Baseball Game - LeetCode
 2. Number of Students Unable to Eat Lunch - LeetCode
 3. Make The String Great - LeetCode
