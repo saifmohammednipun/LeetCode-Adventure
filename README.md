@@ -1,4 +1,5 @@
 # LeetCode Problem List
+
 1.19. Remove Nth Node From End of List <br>
 https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 
@@ -40,9 +41,10 @@ https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
 
 14.2181. Merge Nodes in Between Zeros <br>
 https://leetcode.com/problems/merge-nodes-in-between-zeros/
-
+#
 
 # Linked List
+
 1.206. Reverse Linked List - LeetCode <br>
 https://leetcode.com/problems/reverse-linked-list/
 
@@ -57,9 +59,10 @@ https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
 
 5.707. Design Linked List - LeetCode <br>
 https://leetcode.com/problems/design-linked-list/
-
+#
 
 # Stack & Queue
+
 1. Baseball Game - LeetCode
 2. Number of Students Unable to Eat Lunch - LeetCode
 3. Make The String Great - LeetCode
@@ -73,9 +76,10 @@ https://leetcode.com/problems/design-linked-list/
 11. Sweets and Ants - Coding Ninjas
 12. Sum Of Three Stacks - Coding Ninjas
 13. Reversing Queue - Coding Ninjas
-
+#
 
 # Binary Tree
+
 1. Sum of Root To Leaf Binary Numbers - LeetCode
 2. Average of Levels in Binary Tree - LeetCode
 3. Leaf-Similar Trees - LeetCode
@@ -86,9 +90,10 @@ https://leetcode.com/problems/design-linked-list/
 8. Path Sum - LeetCode
 9. Left View Of a Binary Tree - Coding Ninjas
 10. Convert Sorted Array to BST - Coding Ninjas
-
+#
                                     
 # BST
+
 1. Kth Smallest Element in a BST - LeetCode
 2. Insert into a Binary Search Tree - LeetCode
 3. All Elements in Two Binary Search Trees - LeetCode
@@ -101,9 +106,10 @@ https://leetcode.com/problems/design-linked-list/
 10. Guess Price - Coding Ninjas
 11. Construct BST from Level Order - Coding Ninjas
 12. Validate BST - Coding Ninjas
-
+#
 
 # Heap
+
 1. Implement a priority queue - Coding Ninjas
 2. Day 29 : K Max Sum Combinations - Coding Ninjas
 3. Day 27 : Magician and Chocolates - Coding Ninjas
@@ -114,3 +120,4 @@ https://leetcode.com/problems/design-linked-list/
 8. Take Gifts From the Richest Pile - LeetCode
 9. Last Stone Weight - LeetCode
 10. Relative Ranks - LeetCode
+#
