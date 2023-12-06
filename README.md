@@ -1,5 +1,4 @@
 # LeetCode Problem List
-
 1.19. Remove Nth Node From End of List <br>
 https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 
@@ -44,14 +43,21 @@ https://leetcode.com/problems/merge-nodes-in-between-zeros/
 
 
 # Linked List
-1. Reverse Linked List - LeetCode
-2. Design Browser History - LeetCode
-3. Delete Node in a Linked List - LeetCode
-4. Swapping Nodes in a Linked List - LeetCode
-5. Design Linked List - LeetCode
-6. Remove duplicates from a sorted Doubly Linked List - Coding Ninjas
-7. Binary Linked List To Integer - Coding Ninjas
-8. Remove All Nodes with Value K - Coding Ninjas
+1.206. Reverse Linked List - LeetCode <br>
+https://leetcode.com/problems/reverse-linked-list/
+
+2.1472. Design Browser History - LeetCode <br>
+https://leetcode.com/problems/design-browser-history/
+
+3.237. Delete Node in a Linked List - LeetCode <br>
+https://leetcode.com/problems/delete-node-in-a-linked-list/
+
+4.1721. Swapping Nodes in a Linked List - LeetCode <br>
+https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
+
+5.707. Design Linked List - LeetCode <br>
+https://leetcode.com/problems/design-linked-list/
+
 
 # Stack & Queue
 1. Baseball Game - LeetCode
@@ -68,6 +74,7 @@ https://leetcode.com/problems/merge-nodes-in-between-zeros/
 12. Sum Of Three Stacks - Coding Ninjas
 13. Reversing Queue - Coding Ninjas
 
+
 # Binary Tree
 1. Sum of Root To Leaf Binary Numbers - LeetCode
 2. Average of Levels in Binary Tree - LeetCode
@@ -79,6 +86,7 @@ https://leetcode.com/problems/merge-nodes-in-between-zeros/
 8. Path Sum - LeetCode
 9. Left View Of a Binary Tree - Coding Ninjas
 10. Convert Sorted Array to BST - Coding Ninjas
+
                                     
 # BST
 1. Kth Smallest Element in a BST - LeetCode
@@ -93,6 +101,7 @@ https://leetcode.com/problems/merge-nodes-in-between-zeros/
 10. Guess Price - Coding Ninjas
 11. Construct BST from Level Order - Coding Ninjas
 12. Validate BST - Coding Ninjas
+
 
 # Heap
 1. Implement a priority queue - Coding Ninjas
