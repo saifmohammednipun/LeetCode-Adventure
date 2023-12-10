@@ -125,3 +125,5 @@ https://leetcode.com/problems/design-linked-list/
 # Linear Search
 
 - [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)
+
+- [2529. Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problemsmaximum-count-of-positive-integer-and-negative-integer/)
