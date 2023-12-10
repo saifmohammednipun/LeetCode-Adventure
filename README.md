@@ -1,7 +1,5 @@
 # LeetCode Problem List
 
-1.19. Remove Nth Node From End of List <br>
-https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 
 2.20. Valid Parentheses <br>
 https://leetcode.com/problems/valid-parentheses/
@@ -44,6 +42,8 @@ https://leetcode.com/problems/merge-nodes-in-between-zeros/
 #
 
 # Linked List
+- [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
 
 1.206. Reverse Linked List - LeetCode <br>
 https://leetcode.com/problems/reverse-linked-list/
@@ -124,4 +124,4 @@ https://leetcode.com/problems/design-linked-list/
 
 # Linear Search
 
-1351. [Count Negative Numbers in a Sorted Matrix] (https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)
+- [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)
