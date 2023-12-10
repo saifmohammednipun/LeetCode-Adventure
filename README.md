@@ -2,13 +2,13 @@
 
 # Linear Search
 
-1351. Count Negative Numbers in a Sorted Matrix
-2529. Maximum Count of Positive Integer and Negative Integer
+1. Count Negative Numbers in a Sorted Matrix
+2. Maximum Count of Positive Integer and Negative Integer
 #
 
 # Linked List
 
-19. Remove Nth Node From End of List - LeetCode
+1. Remove Nth Node From End of List - LeetCode
 83. Remove Duplicates from Sorted List - LeetCode 
 141. Linked List Cycle - LeeCode
 203. Remove Linked List Elements - LeetCode
