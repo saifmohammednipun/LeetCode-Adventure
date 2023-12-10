@@ -121,3 +121,7 @@ https://leetcode.com/problems/design-linked-list/
 9. Last Stone Weight - LeetCode
 10. Relative Ranks - LeetCode
 #
+
+# Linear Search
+
+1.1351. Count Negative Numbers in a Sorted Matrix [https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix]
