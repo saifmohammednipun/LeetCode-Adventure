@@ -11,9 +11,7 @@ public:
                 posIntCount++;
             if(nums[i]< 0)
                 negIntCount++;
-            
         }
-
         return max(posIntCount, negIntCount);
     }
 };
