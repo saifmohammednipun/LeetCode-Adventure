@@ -1,5 +1,7 @@
-class Solution {
+class Solution
+{
 public:
+
     void insert_tail(ListNode *&head, ListNode *&tail, int val)
     {
         ListNode *newNode = new ListNode(val);
@@ -12,6 +14,7 @@ public:
         tail->next = newNode;
         tail = tail->next;
     }
+
     void reverse(ListNode *&head, ListNode *cur)
     {
         if (cur->next == NULL)
@@ -23,6 +26,7 @@ public:
         cur->next->next = cur;
         cur->next = NULL;
     }
+
     void print_list(ListNode *head)
     {
         ListNode *tmp = head;
@@ -32,6 +36,7 @@ public:
             tmp = tmp->next;
         }
     }
+    
     bool isPalindrome(ListNode *head)
     {
         ListNode *newHead = NULL;
