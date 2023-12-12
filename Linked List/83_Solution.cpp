@@ -1,6 +1,7 @@
 class Solution {
 public:
-    ListNode* deleteDuplicates(ListNode* head){
+    ListNode* deleteDuplicates(ListNode* head)
+    {
         if (head == NULL)
             return head;
         ListNode *tmp = head;
