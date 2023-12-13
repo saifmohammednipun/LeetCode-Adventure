@@ -3,7 +3,7 @@
 # Linear Search
 
 1. Count Negative Numbers in a Sorted Matrix
-2. Maximum Count of Positive Integer and Negative Integer
+2. Maximum Count of Positive Integer and Negative Integer 
 #
 
 # Linked List
